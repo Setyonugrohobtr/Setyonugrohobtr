@@ -27,7 +27,7 @@ I am a student as well as the Developer of San Andreas Multiplayer and FiveM.
 ### Let's connect!
 <p>
     <a href="https://web.facebook.com/NGR.INDO/" target="blank"><img src="https://img.shields.io/badge/Facebook-cyan?" /></a>
-    <a href="https://www.instagram.com/setyonugrohongr/" target="blank"><img src="https://img.shields.io/badge/Instagram-magenta?" /></a>
+    <a href="https://www.instagram.com/setyonugrohongr/" target="blank"><img src="https://img.shields.io/badge/Instagram-red?" /></a>
     <a href="https://Www.GoodLifeCity.xyz" target="blank"><img src="https://img.shields.io/badge/Website-GoodLife Web-green?" /></a>
     <a href="https://nugroho.business.site" target="blank"><img src="https://img.shields.io/badge/Website-Nugroho Business-green?" /></a>
     <a href="https://nugrohoentertaiment.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-Nugroho Software-green?" /></a>
