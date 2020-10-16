@@ -1,6 +1,5 @@
 # Hi there 👋 , I'm Setyo Nugroho!
 Saya adalah pelajar sekaligus Developer San Andreas Multiplayer dan FiveM. 
-Www.GoodLifeCity.xyz
 
 ### Tools:
 <p>
