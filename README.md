@@ -9,9 +9,9 @@ Saya adalah pelajar sekaligus Developer San Andreas Multiplayer dan FiveM.
 
 ### Stats:
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>Tentang saya nih!</strong></summary>
     - 🔭 I’m currently working on GoodLife SAMP Server </br>
-    - 🌱 I’m currently learning Pawno </br>
+    - 🌱 I’m currently learning Pawn </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
