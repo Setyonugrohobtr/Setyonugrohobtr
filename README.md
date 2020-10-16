@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Setyo Nugroho!
-Saya adalah pelajar sekaligus Developer San Andreas Multiplayer dan FiveM. 
+I am a student as well as the Developer of San Andreas Multiplayer and FiveM. 
 
 ### Tools:
 <p>
@@ -34,7 +34,7 @@ Saya adalah pelajar sekaligus Developer San Andreas Multiplayer dan FiveM.
 </p>
 
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Setyonugrohobtr/Setyonugrohobtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
