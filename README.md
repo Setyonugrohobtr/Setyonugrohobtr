@@ -31,7 +31,7 @@ I am a student as well as the Developer of San Andreas Multiplayer and FiveM.
     <a href="https://www.instagram.com/setyonugrohongr/" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?" /></a>
     <a href="https://www.YouTube.com/Setyonugrohongr" target="blank"><img src="https://img.shields.io/badge/YouTube-red?" /></a>
     <a href="https://https://twitter.com/Setyonugrohobtr" target="blank"><img src="https://img.shields.io/badge/@Setyonugrohobtr-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://Www.GoodLifeCity.xyz" target="blank"><img src="https://img.shields.io/badge/Website-GoodLife Web-green?" /></a>
+    <a href="http://www.goodlifecity.xyz/" target="blank"><img src="https://img.shields.io/badge/Website-GoodLife Web-green?" /></a>
     <a href="https://nugroho.business.site" target="blank"><img src="https://img.shields.io/badge/Website-Nugroho Business-green?" /></a>
     <a href="https://nugrohoentertaiment.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-Nugroho Software-green?" /></a>
     <a href="https://paypal.me/setyongr" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
