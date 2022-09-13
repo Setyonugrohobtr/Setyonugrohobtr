@@ -1,5 +1,5 @@
-# Hi there 👋 , I'm Setyo Nugroho!
-I am a student as well as the Developer of San Andreas Multiplayer and FiveM. 
+# Halo semua 👋 , saya Setyo Nugroho!
+Saya seorang mahasiswa, desainer dan web developer. 
 
 ### Tools:
 <p>
@@ -11,14 +11,11 @@ I am a student as well as the Developer of San Andreas Multiplayer and FiveM.
 ### Stats:
 <details>
  <summary><strong>About me!</strong></summary>
-    - 🔭 I’m currently working on GoodLife SAMP Server </br>
-    - 🌱 I’m currently learning Pawn </br>
-    - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br>
+    - 🔭 I’m currently working on Ngr </br>
+    - 🌱 I’m currently learning UI/UX </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:Setyonugrohongr@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:theseth@email.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Setyonugrohobtr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
@@ -27,13 +24,13 @@ I am a student as well as the Developer of San Andreas Multiplayer and FiveM.
 
 ### Let's connect!
 <p>
-    <a href="https://web.facebook.com/NGR.INDO/" target="blank"><img src="https://img.shields.io/badge/Facebook-cyan?" /></a>
-    <a href="https://www.instagram.com/setyonugrohongr/" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?" /></a>
-    <a href="https://www.YouTube.com/Setyonugrohongr" target="blank"><img src="https://img.shields.io/badge/YouTube-red?" /></a>
-    <a href="https://https://twitter.com/Setyonugrohobtr" target="blank"><img src="https://img.shields.io/badge/@Setyonugrohobtr-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.nugrohoid.xyz/" target="blank"><img src="https://img.shields.io/badge/Website-Ngr Web-green?" /></a>
-    <a href="https://www.nugrohoid.xyz/" target="blank"><img src="https://img.shields.io/badge/Website-Nugroho Business-green?" /></a>
-    <a href="https://nugrohoentertaiment.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-Nugroho Software-green?" /></a>
+    <a href="https://web.facebook.com/prinxeseth1/" target="blank"><img src="https://img.shields.io/badge/Facebook-cyan?" /></a>
+    <a href="https://www.instagram.com/prinxeseth/" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?" /></a>
+    <a href="https://www.YouTube.com/prinxeseth" target="blank"><img src="https://img.shields.io/badge/YouTube-red?" /></a>
+    <a href="https://https://twitter.com/prinxeseth" target="blank"><img src="https://img.shields.io/badge/@Setyonugrohobtr-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://setyonugroho.me/" target="blank"><img src="https://img.shields.io/badge/Website-Ngr Web-green?" /></a>
+    <a href="https://setyonugroho.me/" target="blank"><img src="https://img.shields.io/badge/Website-Nugroho Business-green?" /></a>
+    <a href="https://setyonugroho.me" target="blank"><img src="https://img.shields.io/badge/Website-Nugroho Software-green?" /></a>
     <a href="https://paypal.me/setyongr" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
